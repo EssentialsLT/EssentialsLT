@@ -1,0 +1,23 @@
+#Colocar som no comando
+Som: true
+#Mensagem de erro
+Mensagem: "&cNao foi possivel acha o cmd: [cmd]"
+#Login para staff
+Staff: true
+SMensagem: "&cO staffer [nick] entrou no servidor"
+#Login para VIP
+#Permisao para setar:  - vip
+Vip: true
+VMensagem: "&aO jogador [nick] e vip e acabou de entrar no servidor"
+#Mensagem de trocar entrou e saiu
+#Permisao para setar:  - membro
+EMensagem: true
+entrou: "&8[nick] acabou de entrar no servidor"
+saiu: "&4[nick] acabou de sair do servidor"
+#Teleporte para o spawn
+#Coloque aqui as coordenadas
+Spawn:
+  world: world
+  x: -522
+  y: 6
+  z: 490
